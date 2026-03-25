@@ -121,7 +121,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 .venv*/
 env/
@@ -163,7 +162,6 @@ cython_debug/
 #.idea/
 
 # VSCode
-.vscode/
 
 # RenderCV output
 rendercv_output/
@@ -198,3 +196,5 @@ mkdocs-material/
 scripts/ats_proof/rendered/
 scripts/ats_proof/results/
 scripts/ats_proof/analysis/
+config.bat
+node_modules
